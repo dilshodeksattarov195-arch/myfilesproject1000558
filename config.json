@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configuarse",
+        "uuid": 4912074,
+        "checksum": "anou4"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
